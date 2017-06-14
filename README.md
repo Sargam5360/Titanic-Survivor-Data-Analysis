@@ -3,7 +3,7 @@
 In this project, I analyzed titanic dataset and then communicate my findings about it. I used the Python libraries NumPy, Pandas, and Matplotlib to make my analysis easier.
 
 Tasks to achieve from this project:
-## After completing the project, you will:
+## After completing the project, I will:
 
 Know all the steps involved in a typical data analysis process
 
