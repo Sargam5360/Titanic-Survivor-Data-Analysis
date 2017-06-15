@@ -2,6 +2,8 @@
 
 In this project, I analyzed titanic dataset and then communicate my findings about it. I used the Python libraries NumPy, Pandas, and Matplotlib to make my analysis easier.
 
+**Udacity Review of my project :** https://review.udacity.com/#!/reviews/548380/shared
+
 Tasks to achieve from this project:
 ## After completing the project, I will:
 
